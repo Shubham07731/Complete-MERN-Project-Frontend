@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/QXubxBoPQXIAAAAM/kstr-kochstrasse.gif"> 
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
